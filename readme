@@ -1,1 +1,4 @@
-Coding this made me realise theory and execution is quite different. Common mistakes I made is messing up 'elif' and 'if', = instead of ==. and the most frustrating one, having the right index However, after rounds and rounds of running and fixing mistakes, I finally managed to successfully get it to work! I hope to further improve it by making the computer print out its random choice, telling people what it picked, and then tell you whether it is a tie, a win or a loss.
+Coding this made me realise theory and execution are quite different.
+Common mistakes I made is messing up 'elif' and 'if', = instead of ==. and the most frustrating one, having the right indexation.
+However, after rounds and rounds of running and fixing mistakes, I finally managed to successfully get it to work! 
+I hope to further improve it by making the computer print out its random choice, telling people what it picked, and then tell you whether it is a tie, a win or a loss.
